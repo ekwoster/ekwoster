@@ -2,7 +2,7 @@ Hi 👋 My name is Yevhen Kozachenko
 ==================================
 
 * 🖥️  See my portfolio at [My portfolio](http://ekwoster.dev)
-* ✉️  You can contact me at [ekwoster@gmail.com](mailto:ekwoster@gmail.com)
+* ✉️  You can contact me at [me@ekwoster.dev](mailto:me@ekwoster.dev)
 
 <a href="https://www.x.com/ekwoster" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ekwoster?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
